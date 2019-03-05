@@ -1,0 +1,42 @@
+.jumbotron {
+    background-image: url("/assets/images/pic1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: 10px;
+}
+
+.jumbotron , h1 {
+    font-family: 'Slidecar', cursive;
+}
+
+#newburger {
+    border-radius: 5px;
+}
+
+#color-override {
+    color: rgb(160, 241, 28);
+}
+
+#leftheading {
+    background-color: #54e954;
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+    border-radius: 5px;
+
+}
+
+#devouredbutton, #deletebutton {
+    float: right;
+}
+
+#rightheading {
+    background-color: #eb9f34;
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+    border-radius: 5px;
+
+    
+}
