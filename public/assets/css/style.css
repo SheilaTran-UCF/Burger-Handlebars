@@ -9,17 +9,29 @@
 .jumbotron , h1 {
     font-family: 'Slidecar', cursive;
 }
+#red {
+    color:  #a6f11c;
+}
 
 #newburger {
     border-radius: 5px;
+    text-align: center;
+}
+
+#newburger:hover {
+    background-color: gold;
+    padding-top: 15px;
+    transition: all 0.5s ease;
 }
 
 #color-override {
-    color: rgb(160, 241, 28);
+    color: #a6f11c;
+    text-align: center;
+    
 }
 
 #leftheading {
-    background-color: #54e954;
+    background-color: #eb9f34;
     color: white;
     text-align: center;
     font-size: 1.2em;
@@ -32,7 +44,7 @@
 }
 
 #rightheading {
-    background-color: #eb9f34;
+    background-color: red;
     color: white;
     text-align: center;
     font-size: 1.2em;
