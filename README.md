@@ -55,6 +55,6 @@ All the recommended files and directories from the steps above should look like 
         └── main.handlebars
 
 ```
-https://dry-dawn-58508.herokuapp.com/
+<h3>https://dry-dawn-58508.herokuapp.com/</h3> </br>
 <img src="./public/assets/images/Capture1.PNG" width="100%">
 <img src="capture-pics/Capture1.PNG" width="100%">
